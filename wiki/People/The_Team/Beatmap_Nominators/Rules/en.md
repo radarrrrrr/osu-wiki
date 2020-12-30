@@ -49,7 +49,7 @@ Each mode has its own required minimum for monthly activity.
 - **Only 3 significantly different versions of a song may be qualified in the same mode at the same time.** Significantly different versions include remixes, compilations, and mashups.
 - **Do not qualify beatmaps of modes which you are not a full member of, unless they were nominated by someone who is.** This ensures that a full nominator is always part of the process for each mode.
 - **Do not qualify a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
-- **Each mode in a hybrid beatmapset must be nominated by two nominators proficient in the respective mode.** Due to the hybrid nomination process not being fully supported, nominators proficient in multiple modes can not approve more than one mode.
+- **Each mode in a hybrid beatmapset must be nominated by two nominators proficient in each respective mode.** Nominators who are proficient in multiple modes can nominate multiple modes in one mapset.
 
 ## Nomination reset
 
